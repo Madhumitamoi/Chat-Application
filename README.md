@@ -1,6 +1,6 @@
-# Chat Application with Node.js and Socket.IO
+# Chat Application 
 
-This is a simple chat application built with Node.js and Socket.IO. It allows real-time communication between multiple clients through a web browser. Users can join chat rooms, send messages, and receive messages instantly without the need to refresh the page.
+This is a chat application built with Node.js and Socket.IO. It allows real-time communication between multiple clients through a web browser. Users can join chat rooms, send messages, and receive messages instantly without the need to refresh the page.
 
 ## Features
 
